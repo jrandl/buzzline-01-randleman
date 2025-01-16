@@ -1,5 +1,5 @@
 """
-basic_generator_josiah_randleman.py
+basic_producer_josiah_randleman.py
 
 Generate some streaming buzz messages. 
 """
