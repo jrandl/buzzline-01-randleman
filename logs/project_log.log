@@ -458,3 +458,26 @@
 2025-01-15 21:34:31.472 | INFO     | __main__:main:114 - I just organized a recipe! It was unique.
 2025-01-15 21:34:34.474 | INFO     | __main__:main:114 - I just experienced a technique! It was lively.
 2025-01-15 21:34:37.476 | INFO     | __main__:main:114 - I just solved a game! It was charming.
+2025-01-15 21:44:06.839 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 21:44:27.601 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 21:44:53.778 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 21:45:17.421 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 21:45:17.421 | INFO     | __main__:main:68 - START...
+2025-01-15 21:45:17.421 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-15 21:46:13.061 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 21:46:13.062 | INFO     | __main__:main:106 - START producer...
+2025-01-15 21:46:13.062 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 21:46:13.062 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 21:46:13.063 | INFO     | __main__:main:114 - I just organized an idea! It was unique.
+2025-01-15 21:46:16.063 | INFO     | __main__:main:114 - I just built a recipe! It was witty.
+2025-01-15 21:46:19.064 | INFO     | __main__:main:114 - I just learned a recipe! It was witty.
+2025-01-15 21:46:22.065 | INFO     | __main__:main:114 - I just learned a hobby! It was inspiring.
+2025-01-15 21:46:25.066 | INFO     | __main__:main:114 - I just built a book! It was incredible.
+2025-01-15 21:46:28.067 | INFO     | __main__:main:114 - I just improved a book! It was thrilling.
+2025-01-15 21:46:31.068 | INFO     | __main__:main:114 - I just built an adventure! It was unusual.
+2025-01-15 21:46:34.069 | INFO     | __main__:main:114 - I just designed a lesson! It was unique.
+2025-01-15 21:46:37.070 | INFO     | __main__:main:114 - I just tested a lesson! It was fascinating.
+2025-01-15 21:46:40.071 | INFO     | __main__:main:114 - I just experienced a recipe! It was inspiring.
+2025-01-15 21:46:43.072 | INFO     | __main__:main:114 - I just built a tool! It was unique.
+2025-01-15 21:46:46.073 | INFO     | __main__:main:114 - I just designed a fact! It was dull.
+2025-01-15 21:46:49.075 | INFO     | __main__:main:114 - I just achieved a song! It was surprising.
